@@ -4,6 +4,10 @@ A Python-based cybersecurity toolkit that combines multiple security utilities i
 
 This project was developed to practice Python programming while applying fundamental cybersecurity concepts such as network scanning, log analysis, file integrity monitoring, phishing detection, and password security.
 
+## Project Preview
+<img width="959" height="511" alt="21" src="https://github.com/user-attachments/assets/8f90f94a-4f34-4548-815b-2d5bde508e41" />
+
+
 ## Security Tools
 
 The toolkit includes the following modules:
